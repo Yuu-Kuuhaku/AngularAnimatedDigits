@@ -1,0 +1,34 @@
+.container-body {
+  min-height: 100vh;
+  height: 100vh;
+  background-color: #fafafa;
+
+
+  .body{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer{
+
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+
+    a {
+      font-size: 0.8rem;
+      color: #000;
+    }
+  }
+}
+
+@media (min-height: 700px) {
+  .container-body {
+    padding-right: 1rem ;
+    padding-left: 1rem ;
+
+  }
+}

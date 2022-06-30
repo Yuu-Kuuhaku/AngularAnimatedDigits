@@ -1,0 +1,6 @@
+<div>
+  <app-animated-digit [digit]="value"></app-animated-digit>
+
+  <input placeholder="R$ 0,00" [formControl]="currency" currencyMask  [options]="{ prefix: 'R$ ', thousands: '.', decimal: ',' }" />
+
+</div>
