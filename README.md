@@ -8,7 +8,7 @@ pt-BR:
 Este Componente foi ajustado apartir do componente [Angular Animated Counter](https://codesandbox.io/s/3j3mq7ykp?from-embed=&file=/src/index.html). 
 
 - Ajuste para receber valores tipo Float
-- Ajuste de um erro no cauculo que tornava o valor mostrado maior que o valor informado.
+- Ajuste de um erro no cálculo que tornava o valor mostrado maior que o valor informado.
 
 Esta versão esta adaptada apenas para valores monetários
 
