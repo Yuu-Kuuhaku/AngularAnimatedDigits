@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
+pt-BR: 
+Este Componente foi ajustado apartir do componente [Angular Animated Counter](https://codesandbox.io/s/3j3mq7ykp?from-embed=&file=/src/index.html). 
+
+- Ajuste para receber valores tipo Float
+- Ajuste de um erro no cauculo que tornava o valor mostrado maior que o valor informado.
+
+Esta versão esta adaptada apenas para valores monetários
+
+en: 
+coming soon...
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
